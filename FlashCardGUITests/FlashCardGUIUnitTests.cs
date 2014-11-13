@@ -10,5 +10,11 @@ namespace FlashCardGUIUnitTests
         public void FlashCardGUIUnitTestsMethod1()
         {
         }
+
+        [TestMethod]
+        public void FlashCardGUIUnitTestsMethod2()
+        { 
+        }
     }
+
 }

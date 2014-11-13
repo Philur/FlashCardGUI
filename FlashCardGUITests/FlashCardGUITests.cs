@@ -7,7 +7,12 @@ namespace FlashCardGUITests
     public class FlashCardGUITests
     {
         [TestMethod]
-        public void FlashCardGUITestsMethod1()
+        public void FlashCardGUITestsMethodA()
+        {
+        }
+
+        [TestMethod]
+        public void FlashCardGUITestsMethodB()
         {
         }
     }

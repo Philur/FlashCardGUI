@@ -54,6 +54,16 @@
     <Compile Include="FlashCardGUITests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FlashCardsLibrary\FlashCardsLibrary.csproj">
+      <Project>{8b8ef6e2-9c46-4d54-b2eb-570389053752}</Project>
+      <Name>FlashCardsLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlashCards\FlashCards.csproj">
+      <Project>{f7b3a0d5-6b8d-4227-a127-1fe8d5dfd45e}</Project>
+      <Name>FlashCards</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
