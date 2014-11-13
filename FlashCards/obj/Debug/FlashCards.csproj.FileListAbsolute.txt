@@ -108,3 +108,16 @@ C:\temp\Ex 4.3\FlashCards\obj\Debug\FlashCards.pdb
 C:\temp\FlashCardGUI\FlashCards\bin\Debug\FlashCards.exe.config
 C:\temp\FlashCardGUI\FlashCards\obj\Debug\FlashCards.exe
 C:\temp\FlashCardGUI\FlashCards\obj\Debug\FlashCards.pdb
+C:\GitHub_Archive\FlashCardGUI\FlashCards\bin\Debug\FlashCards.exe.config
+C:\GitHub_Archive\FlashCardGUI\FlashCards\obj\Debug\FlashCards.exe
+C:\GitHub_Archive\FlashCardGUI\FlashCards\obj\Debug\FlashCards.pdb
+C:\GitHub_Archive\FlashCardGUI\FlashCards\bin\Debug\FlashCards.exe
+C:\GitHub_Archive\FlashCardGUI\FlashCards\bin\Debug\FlashCards.pdb
+C:\GitHub_Archive\FlashCardGUI\FlashCards\bin\Debug\FlashCards.exe.CodeAnalysisLog.xml
+C:\GitHub_Archive\FlashCardGUI\FlashCards\bin\Debug\FlashCards.exe.lastcodeanalysissucceeded
+C:\GitHub_Archive\FlashCardGUI\FlashCards\bin\Debug\FlashCardsLibrary.dll
+C:\GitHub_Archive\FlashCardGUI\FlashCards\bin\Debug\FlashCardsLibrary.pdb
+C:\GitHub_Archive\FlashCardGUI\FlashCards\obj\Debug\FlashCards.csprojResolveAssemblyReference.cache
+C:\GitHub_Archive\FlashCardGUI\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\GitHub_Archive\FlashCardGUI\FlashCards\obj\Debug\FlashCards.UserDialogForm.resources
+C:\GitHub_Archive\FlashCardGUI\FlashCards\obj\Debug\FlashCards.csproj.GenerateResource.Cache

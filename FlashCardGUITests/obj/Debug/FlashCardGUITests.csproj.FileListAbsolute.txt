@@ -1,0 +1,5 @@
+C:\GitHub_Archive\FlashCardGUI\FlashCardGUITests\obj\Debug\FlashCardGUITests.csprojResolveAssemblyReference.cache
+C:\GitHub_Archive\FlashCardGUI\FlashCardGUITests\bin\Debug\FlashCardGUITests.dll
+C:\GitHub_Archive\FlashCardGUI\FlashCardGUITests\bin\Debug\FlashCardGUITests.pdb
+C:\GitHub_Archive\FlashCardGUI\FlashCardGUITests\obj\Debug\FlashCardGUITests.dll
+C:\GitHub_Archive\FlashCardGUI\FlashCardGUITests\obj\Debug\FlashCardGUITests.pdb
