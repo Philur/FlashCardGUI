@@ -1,0 +1,110 @@
+C:\Course502\CS\Solutions\Ex 3.2\FlashCards\FlashCards\obj\Debug\FlashCards.exe
+C:\Course502\CS\Solutions\Ex 3.2\FlashCards\FlashCards\obj\Debug\FlashCards.pdb
+C:\Course502\CS\Solutions\Ex 3.2\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+C:\Course502\CS\Solutions\Ex 3.2\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course502\CS\Solutions\Ex 3.2\FlashCards\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course502\CS\Solutions\Ex 3.2\FlashCards\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Course502\CS\Solutions\Ex 3.2\FlashCards\FlashCards\obj\Debug\FlashCards.csproj.GenerateResource.Cache
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\obj\Debug\FlashCards.exe
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\obj\Debug\FlashCards.pdb
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Course502\CS\Solutions\Ex 3.3\FlashCards\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+C:\Course502\CS\Ex 3.4\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Course502\CS\Ex 3.4\FlashCards\obj\Debug\FlashCards.exe
+C:\Course502\CS\Ex 3.4\FlashCards\obj\Debug\FlashCards.pdb
+C:\Course502\CS\Ex 3.4\FlashCards\bin\Debug\FlashCards.exe
+C:\Course502\CS\Ex 3.4\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course502\CS\Ex 3.4\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course502\CS\Ex 3.4\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Course502\CS\Ex 3.4\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Course502\CS\Ex 3.4\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+D:\Course Folders\Course502\CS\Ex 3.4\FlashCards\bin\Debug\FlashCards.exe.config
+D:\Course Folders\Course502\CS\Ex 3.4\FlashCards\obj\Debug\FlashCards.exe
+D:\Course Folders\Course502\CS\Ex 3.4\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 3.4\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.1\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.1\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.1\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.2\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.dll
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.dll
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\obj\Debug\FlashCards.UserDialogForm.resources
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions\Ex 4.3\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.dll
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\obj\Debug\FlashCards.UserDialogForm.resources
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\obj\Debug\FlashCards.exe
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\obj\Debug\FlashCards.pdb
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.dll
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.pdb
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\obj\Debug\FlashCards.UserDialogForm.resources
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\obj\Debug\GenerateResource.read.1.tlog
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCards\obj\Debug\GenerateResource.write.1.tlog
+C:\temp\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe.config
+C:\temp\Ex 4.3\FlashCards\bin\Debug\FlashCards.exe
+C:\temp\Ex 4.3\FlashCards\bin\Debug\FlashCards.pdb
+C:\temp\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.dll
+C:\temp\Ex 4.3\FlashCards\bin\Debug\FlashCardsLibrary.pdb
+C:\temp\Ex 4.3\FlashCards\obj\Debug\FlashCards.csprojResolveAssemblyReference.cache
+C:\temp\Ex 4.3\FlashCards\obj\Debug\FlashCards.FlashCardsForm.resources
+C:\temp\Ex 4.3\FlashCards\obj\Debug\FlashCards.UserDialogForm.resources
+C:\temp\Ex 4.3\FlashCards\obj\Debug\FlashCards.csproj.GenerateResource.Cache
+C:\temp\Ex 4.3\FlashCards\obj\Debug\FlashCards.exe
+C:\temp\Ex 4.3\FlashCards\obj\Debug\FlashCards.pdb
+C:\temp\FlashCardGUI\FlashCards\bin\Debug\FlashCards.exe.config
+C:\temp\FlashCardGUI\FlashCards\obj\Debug\FlashCards.exe
+C:\temp\FlashCardGUI\FlashCards\obj\Debug\FlashCards.pdb

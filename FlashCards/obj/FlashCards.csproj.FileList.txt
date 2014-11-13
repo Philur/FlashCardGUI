@@ -1,0 +1,7 @@
+bin\Debug\FlashCards.exe
+bin\Debug\FlashCards.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FlashCards.exe
+obj\Debug\FlashCards.pdb
+obj\Debug\FlashCards.FlashCardsForm.resources
+obj\Debug\FlashCards.csproj.GenerateResource.Cache

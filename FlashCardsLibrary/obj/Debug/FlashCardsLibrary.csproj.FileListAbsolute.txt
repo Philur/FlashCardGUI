@@ -1,0 +1,19 @@
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.dll
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.pdb
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCardsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.dll
+C:\Users\Doug\Desktop\502 Rev - test solutions 2\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.dll
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.pdb
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCardsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.dll
+C:\Users\Doug\Desktop\502 M1 - New Exercise Solutions C#\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.pdb
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.dll
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.pdb
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCardsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.dll
+C:\Course502\CS\Finished Exercises\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.pdb
+C:\temp\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.dll
+C:\temp\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.pdb
+C:\temp\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.dll
+C:\temp\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.pdb

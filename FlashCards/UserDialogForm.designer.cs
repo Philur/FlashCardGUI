@@ -1,0 +1,93 @@
+namespace FlashCards
+{
+    partial class UserDialogForm
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.UserTextBox = new System.Windows.Forms.TextBox();
+            this.Label1 = new System.Windows.Forms.Label();
+            this.OKButton = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // UserTextBox
+            // 
+            this.UserTextBox.Location = new System.Drawing.Point(25, 50);
+            this.UserTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.UserTextBox.Name = "UserTextBox";
+            this.UserTextBox.Size = new System.Drawing.Size(209, 22);
+            this.UserTextBox.TabIndex = 0;
+            // 
+            // Label1
+            // 
+            this.Label1.AutoSize = true;
+            this.Label1.Location = new System.Drawing.Point(21, 20);
+            this.Label1.Name = "Label1";
+            this.Label1.Size = new System.Drawing.Size(97, 17);
+            this.Label1.TabIndex = 4;
+            this.Label1.Text = "Who are you?";
+            // 
+            // OKButton
+            // 
+            this.OKButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.OKButton.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.OKButton.Location = new System.Drawing.Point(307, 107);
+            this.OKButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.OKButton.Name = "OKButton";
+            this.OKButton.Size = new System.Drawing.Size(75, 26);
+            this.OKButton.TabIndex = 3;
+            this.OKButton.Text = "OK";
+            this.OKButton.UseVisualStyleBackColor = true;
+            // 
+            // UserDialogForm
+            // 
+            this.AcceptButton = this.OKButton;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(403, 153);
+            this.ControlBox = false;
+            this.Controls.Add(this.UserTextBox);
+            this.Controls.Add(this.Label1);
+            this.Controls.Add(this.OKButton);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "UserDialogForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "User";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        internal System.Windows.Forms.Label Label1;
+        internal System.Windows.Forms.Button OKButton;
+        public System.Windows.Forms.TextBox UserTextBox;
+    }
+}
