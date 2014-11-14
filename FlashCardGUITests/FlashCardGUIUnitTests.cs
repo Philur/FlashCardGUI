@@ -28,5 +28,105 @@ namespace FlashCardGUIUnitTests
             //REFACTOR this TC
             Assert.AreNotEqual(test.User, "kallde");
         }
+        
+        [TestMethod]
+        public void SetPlayerNameLongname()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.User = "kalle anka från Göteborg i Sverige, Europa, Jorden";
+
+            Assert.AreEqual(test.User, "kalle anka från Göteborg i Sverige, Europa, Jorden");
+        }
+
+        [TestMethod]
+        public void SetPlayerNameWithFunnyCharacters()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.User = "kalle % # ; =} * á le´ ä ' ~";
+
+            Assert.AreEqual(test.User, "kalle % # ; =} * á le´ ä ' ~");
+        }
+
+        [TestMethod]
+        public void SetNumber1()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.Number1 = 1;
+
+            Assert.AreEqual(test.Number1, 1);
+        }
+        
+        [TestMethod]
+        public void SetNumber2()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.Number2 = 1;
+
+            Assert.AreNotEqual(test.Number2, 1);
+        }
+
+        [TestMethod]
+        public void workOnLetter_a()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            Assert.AreEqual(test.WorkOn, "A");
+
+            test.WorkOn = "A";
+
+            Assert.AreEqual(test.WorkOn, "A");
+        }
+
+        [TestMethod]
+        public void workOnLetter_s()
+        {
+            FlashCardsController test = new FlashCardsController("s");
+
+            Assert.AreEqual(test.WorkOn, "S");
+
+            test.WorkOn = "S";
+
+            Assert.AreEqual(test.WorkOn, "S");
+        }
+
+        [TestMethod]
+        public void workOnLetter_m()
+        {
+            FlashCardsController test = new FlashCardsController("m");
+
+            Assert.AreEqual(test.WorkOn, "M");
+            
+            test.WorkOn = "M";
+
+            Assert.AreEqual(test.WorkOn, "M");
+        }
+
+        [TestMethod]
+        public void workOnLetter_d()
+        {
+            FlashCardsController test = new FlashCardsController("d");
+
+            Assert.AreEqual(test.WorkOn, "D");
+
+            test.WorkOn = "D";
+
+            Assert.AreEqual(test.WorkOn, "D");
+        }
+
+        [TestMethod]
+        public void workOnLetter_other()
+        {
+            FlashCardsController test = new FlashCardsController("x");
+
+            UnitTestAssertException.Equals(System.ArgumentException("Must enter Add, Subtract, Multiply or Divide")); 
+            
+            test.WorkOn = "X";
+
+            UnitTestAssertException.Equals(System.ArgumentException("Must enter Add, Subtract, Multiply or Divide"));
+        }
     }
 }

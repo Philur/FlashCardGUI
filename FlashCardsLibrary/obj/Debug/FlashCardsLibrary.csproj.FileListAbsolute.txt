@@ -21,4 +21,3 @@ C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.dll
 C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.pdb
 C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.dll
 C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.pdb
-C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.csprojResolveAssemblyReference.cache

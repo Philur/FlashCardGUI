@@ -2,6 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+//setting CLSCompliant attribute to false
+[assembly: CLSCompliant(false)]
+
 namespace FlashCards
 {
     class Startup
