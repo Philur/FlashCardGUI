@@ -8,8 +8,13 @@ namespace FlashCardsLibrary
     public class NumberGenerator
     {
 
+
+
+
         public virtual void GenerateNumbers(FlashCardsController flashcard)
         {
+
+      
             Random randomNumber =
                 new Random(DateTime.Now.Millisecond);
 

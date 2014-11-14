@@ -168,7 +168,7 @@ namespace FlashCardsLibrary
             }
             set
             {
-            mUser = value;
+                mUser = value;
             }
         }
 
