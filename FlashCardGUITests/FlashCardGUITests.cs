@@ -4,6 +4,7 @@ using FlashCards;
 
 namespace FlashCardGUITests
 {
+    //HACK This is very incomplete!
     [TestClass]
     public class FlashCardGUITests
     {
@@ -15,7 +16,6 @@ namespace FlashCardGUITests
         [TestMethod]
         public void FlashCardGUITestsMethodB()
         {
-
         }
     }
 }

@@ -7,7 +7,7 @@ namespace FlashCardGUIUnitTests
     [TestClass]
     public class FlashCardGUIUnitTests
     {
-
+        //TODO Add more UnitTest!!
         [TestMethod]
         public void SetPlayerName()
         {
@@ -16,7 +16,6 @@ namespace FlashCardGUIUnitTests
             test.User = "kalle";
 
             Assert.AreEqual(test.User, "kalle");
-
         }
         
         [TestMethod]
@@ -26,9 +25,8 @@ namespace FlashCardGUIUnitTests
 
             test.User = "kalle";
 
-            Assert.AreEqual(test.User, "kallde");
-
+            //REFACTOR this TC
+            Assert.AreNotEqual(test.User, "kallde");
         }
     }
-
 }
