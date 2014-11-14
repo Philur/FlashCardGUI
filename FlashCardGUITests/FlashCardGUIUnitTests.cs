@@ -70,7 +70,7 @@ namespace FlashCardGUIUnitTests
         }
 
         [TestMethod]
-        public void workOnLetter_a()
+        public void WorkOnLetter_a()
         {
             FlashCardsController test = new FlashCardsController("a");
 
@@ -82,7 +82,7 @@ namespace FlashCardGUIUnitTests
         }
 
         [TestMethod]
-        public void workOnLetter_s()
+        public void WorkOnLetter_s()
         {
             FlashCardsController test = new FlashCardsController("s");
 
@@ -94,7 +94,7 @@ namespace FlashCardGUIUnitTests
         }
 
         [TestMethod]
-        public void workOnLetter_m()
+        public void WorkOnLetter_m()
         {
             FlashCardsController test = new FlashCardsController("m");
 
@@ -106,7 +106,7 @@ namespace FlashCardGUIUnitTests
         }
 
         [TestMethod]
-        public void workOnLetter_d()
+        public void WorkOnLetter_d()
         {
             FlashCardsController test = new FlashCardsController("d");
 
@@ -119,7 +119,7 @@ namespace FlashCardGUIUnitTests
 
         //TODO Fix UT for the exception
         /*[TestMethod]
-        public void workOnLetter_other()
+        public void WorkOnLetter_other()
         {
             FlashCardsController test = new FlashCardsController("x");
 
