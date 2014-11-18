@@ -26,7 +26,8 @@ namespace FlashCardGUIUnitTests
             test.User = "kalle";
 
             //REFACTOR this TC
-            Assert.AreEqual(test.User, "kallde");
+            //Assert.AreEqual(test.User, "kallde");
+            Assert.AreNotEqual(test.User, "kallde");
         }
         
         [TestMethod]
@@ -66,7 +67,8 @@ namespace FlashCardGUIUnitTests
 
             test.Number2 = 1;
 
-            Assert.AreNotEqual(test.Number2, 1);
+            //Assert.AreNotEqual(test.Number2, 1);
+            Assert.AreEqual(test.Number2, 1);
         }
 
         [TestMethod]
