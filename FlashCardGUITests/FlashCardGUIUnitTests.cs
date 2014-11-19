@@ -119,7 +119,7 @@ namespace FlashCardGUIUnitTests
             Assert.AreEqual(test.WorkOn, "D");
         }
 
-        //TODO Fix UT for the exception
+        //TODO Fix UT for the exception. This still does not work because I (Erik) really do not understand it
         /*[TestMethod]
         public void WorkOnLetter_other()
         {
