@@ -117,7 +117,7 @@ namespace FlashCardGUIUnitTests
             test.WorkOn = "D";
 
             ///HACK Error
-            Assert.AreEqual(test.WorkOn, "DATA");
+            Assert.AreEqual(test.WorkOn, "D");
         }
 
         //TODO Fix UT for the exception. This still does not work because I (Erik) really do not understand it
