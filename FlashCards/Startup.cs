@@ -72,7 +72,9 @@ namespace FlashCards
             ////Console.ReadLine();
 
         //HACK BREAK CODE ON PURPOSE FOR DEMO!!
-            //UGHE
+            //HACK BREAK CODE ON PURPOSE FOR DEMO!!
+            //HACK BREAK CODE ON PURPOSE FOR DEMO!!
+            UGHE
             System.Windows.Forms.Application.Run(new FlashCardsForm());
 
         }

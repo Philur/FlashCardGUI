@@ -25,8 +25,9 @@ namespace FlashCardGUIUnitTests
 
             test.User = "kalle";
 
+            //TODO this TC is to brak the test chain
+            Assert.AreEqual(test.User, "kallde");
             //REFACTOR this TC so that it works better
-            //Assert.AreEqual(test.User, "kallde");
             Assert.AreNotEqual(test.User, "kallde");
         }
         
