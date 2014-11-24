@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-//setting CLSCompliant attribute to false
+// Setting CLSCompliant attribute to false
 [assembly: CLSCompliant(false)]
 
 namespace FlashCards
@@ -76,6 +76,7 @@ namespace FlashCards
             //HACK BREAK CODE ON PURPOSE FOR DEMO!!
             //UGHE
             System.Windows.Forms.Application.Run(new FlashCardsForm());
+
             //TODO A nicer form would be goog
         }
     }
