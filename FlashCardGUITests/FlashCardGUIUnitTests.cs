@@ -165,7 +165,7 @@ namespace FlashCardGUIUnitTests
         }
          */
 
-        //HACK Understand how to do this!
+        //REFACTOR Understand how to do this!
         [TestMethod]
         public void SetNumber1Multiplication()
         {
