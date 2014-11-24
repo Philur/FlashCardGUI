@@ -194,6 +194,41 @@ namespace FlashCardGUIUnitTests
 
         }
 
+
+
+
+
+        [TestMethod]
+        public void SetNumber1Division()
+        {
+            FlashCardsController test = new FlashCardsController("d");
+
+            Assert.AreEqual(test.WorkOn, "D");
+
+            test.GenerateNumbers();
+
+            Assert.IsTrue(test.Number1 < 82);
+            Assert.IsTrue(test.Number1 > 0);
+
+        }
+
+
+
+
+        [TestMethod]
+        public void SetNumber2Division()
+        {
+            FlashCardsController test = new FlashCardsController("d");
+
+            Assert.AreEqual(test.WorkOn, "D");
+
+            test.GenerateNumbers();
+
+            Assert.IsTrue(test.Number2 < 10);
+            Assert.IsTrue(test.Number2 > 0);
+
+        }
+
         [TestMethod]
         public void GetAndSetTries()
         {
@@ -209,8 +244,9 @@ namespace FlashCardGUIUnitTests
             Assert.AreEqual(test.Tries, 1);
         }
 
+        //REFACTOR Fix this method so that it loops for all 4
         [TestMethod]
-        public void GetAndSetCorrect()
+        public void GetAndSetCorrectAddition()
         {
             FlashCardsController test = new FlashCardsController("a");
 
@@ -223,9 +259,54 @@ namespace FlashCardGUIUnitTests
 
             Assert.AreEqual(test.Correct, 1);
         }
+
+        [TestMethod]
+        public void GetAndSetCorrectSubtraction()
+        {
+            FlashCardsController test = new FlashCardsController("s");
+
+            Assert.AreEqual(test.Correct, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 5;
+
+            test.CheckAnswer(45);
+
+            Assert.AreEqual(test.Correct, 1);
+        }
+
+        [TestMethod]
+        public void GetAndSetCorrectMultiplication()
+        {
+            FlashCardsController test = new FlashCardsController("m");
+
+            Assert.AreEqual(test.Correct, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 5;
+
+            test.CheckAnswer(250);
+
+            Assert.AreEqual(test.Correct, 1);
+        }
         
         [TestMethod]
-        public void GetAndSetScore()
+        public void GetAndSetCorrectDivision()
+        {
+            FlashCardsController test = new FlashCardsController("d");
+
+            Assert.AreEqual(test.Correct, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 5;
+
+            test.CheckAnswer(10);
+
+            Assert.AreEqual(test.Correct, 1);
+        }
+
+        [TestMethod]
+        public void GetAndSetScoreAddition()
         {
             FlashCardsController test = new FlashCardsController("a");
 
@@ -237,6 +318,103 @@ namespace FlashCardGUIUnitTests
             test.CheckAnswer(55);
 
             Assert.AreEqual(test.Score, 10);
+        }
+
+        [TestMethod]
+        public void GetAndSetScoreSubtraction()
+        {
+            FlashCardsController test = new FlashCardsController("s");
+
+            Assert.AreEqual(test.Score, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 5;
+
+            test.CheckAnswer(45);
+
+            Assert.AreEqual(test.Score, 10);
+        }
+
+        [TestMethod]
+        public void GetAndSetScoreMultiplication()
+        {
+            FlashCardsController test = new FlashCardsController("m");
+
+            Assert.AreEqual(test.Score, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 5;
+
+            test.CheckAnswer(250);
+
+            Assert.AreEqual(test.Score, 10);
+        }
+        
+        [TestMethod]
+        public void GetAndSetScoreDivision()
+        {
+            FlashCardsController test = new FlashCardsController("d");
+
+            Assert.AreEqual(test.Score, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 5;
+
+            test.CheckAnswer(10);
+
+            Assert.AreEqual(test.Score, 10);
+        }
+
+        [TestMethod]
+        public void GetAndSetCorrectFail()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            Assert.AreEqual(test.Correct, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 0;
+
+            test.CheckAnswer(55);
+
+            Assert.AreEqual(test.Correct, 0);
+        }
+
+        [TestMethod]
+        public void GetAndSetScoreFail()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            Assert.AreEqual(test.Score, 0);
+
+            test.Number1 = 50;
+            test.Number2 = 0;
+
+            test.CheckAnswer(55);
+            
+            Assert.AreEqual(test.Score, 0);
+        }
+
+        [TestMethod]
+        public void CheckAnswerTrue()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.Number1 = 50;
+            test.Number2 = 5;
+
+            Assert.IsTrue(test.CheckAnswer(55));
+        }
+
+        [TestMethod]
+        public void CheckAnswerFalse()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.Number1 = 50;
+            test.Number2 = 0;
+
+            Assert.IsFalse(test.CheckAnswer(55));
         }
 
         [TestMethod]
