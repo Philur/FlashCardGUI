@@ -30,7 +30,7 @@ namespace FlashCardGUIUnitTests
             //REFACTOR this TC so that it works better
             Assert.AreNotEqual(test.User, "kallde");
         }
-        
+
         [TestMethod]
         public void SetPlayerNameLongname()
         {
@@ -39,6 +39,16 @@ namespace FlashCardGUIUnitTests
             test.User = "kalle anka från Göteborg i Sverige, Europa, Jorden";
 
             Assert.AreEqual(test.User, "kalle anka från Göteborg i Sverige, Europa, Jorden");
+        }
+        
+        [TestMethod]
+        public void SetPlayerNameShortname()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.User = "T";
+
+            Assert.AreEqual(test.User, "T");
         }
 
         [TestMethod]
@@ -49,6 +59,26 @@ namespace FlashCardGUIUnitTests
             test.User = "kalle % # ; =} * á le´ ä ' ~";
 
             Assert.AreEqual(test.User, "kalle % # ; =} * á le´ ä ' ~");
+        }
+
+        [TestMethod]
+        public void SetPlayerNameWithFunnyCharacters2()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.User = "john*^`?=)(/&%¤#!½_AppDomain:;*ÄÅÖ";
+
+            Assert.AreEqual(test.User, "john*^`?=)(/&%¤#!½_AppDomain:;*ÄÅÖ");
+        }
+        
+        [TestMethod]
+        public void SetPlayerNameWithFunnyCharacters3()
+        {
+            FlashCardsController test = new FlashCardsController("a");
+
+            test.User = "'";
+
+            Assert.AreEqual(test.User, "'");
         }
 
         [TestMethod]
