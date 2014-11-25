@@ -11,11 +11,13 @@ namespace FlashCardGUITests
         [TestMethod]
         public void FlashCardGUITestsMethodA()
         {
+            Assert.IsTrue(true);
         }
 
         [TestMethod]
         public void FlashCardGUITestsMethodB()
         {
+            Assert.IsTrue(true);
         }
     }
 }
