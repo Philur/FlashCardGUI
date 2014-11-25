@@ -14,7 +14,7 @@ namespace FlashCards
     {
         public FlashCardsForm()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
 
         private FlashCardsController game = new FlashCardsController("Add");
@@ -23,11 +23,11 @@ namespace FlashCards
         {
             UserDialogForm userDialog = new UserDialogForm();
             userDialog.ShowDialog();
-            game.User = userDialog.UserTextBox.Text;
+            this.game.User = userDialog.UserTextBox.Text;
 
-            WelcomeLabel.Text = "Hello " + game.User;
+            this.WelcomeLabel.Text = "Hello " + this.game.User;
 
-            QuestionLabel.Text = "";
+            QuestionLabel.Text = string.Empty; // ""
 
            game.ScoreChanged += new EventHandler(game_ScoreChanged);
         }
@@ -66,7 +66,7 @@ namespace FlashCards
                 game.GenerateNumbers();
                 QuestionLabel.Text = game.BuildEquation();
                 PlayButton.Text = "Check Answer";
-                AnswerTextBox.Text = "";
+                AnswerTextBox.Text = string.Empty; // "";
                 AnswerTextBox.Focus();
             }
             else

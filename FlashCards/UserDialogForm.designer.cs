@@ -13,10 +13,11 @@ namespace FlashCards
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
-            if (disposing && (components != null))
+            if (disposing && (this.components != null))
             {
-                components.Dispose();
+                this.components.Dispose();
             }
+
             base.Dispose(disposing);
         }
 
@@ -86,8 +87,19 @@ namespace FlashCards
 
         #endregion
 
-        internal System.Windows.Forms.Label Label1;
-        internal System.Windows.Forms.Button OKButton;
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         public System.Windows.Forms.TextBox UserTextBox;
+
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        internal System.Windows.Forms.Label Label1;
+
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        internal System.Windows.Forms.Button OKButton;
     }
 }

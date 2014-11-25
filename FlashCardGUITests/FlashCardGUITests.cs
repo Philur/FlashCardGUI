@@ -4,18 +4,18 @@ using FlashCards;
 
 namespace FlashCardGUITests
 {
-    //HACK This is very incomplete!
+    //REFACTOR This is very incomplete!
     [TestClass]
     public class FlashCardGUITests
     {
         [TestMethod]
-        public void FlashCardGUITestsMethodA()
+        public void MethodA()
         {
             Assert.IsTrue(true);
         }
 
         [TestMethod]
-        public void FlashCardGUITestsMethodB()
+        public void MethodB()
         {
             Assert.IsTrue(true);
         }

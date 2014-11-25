@@ -219,20 +219,75 @@ namespace FlashCards
         }
 
         #endregion
-
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
+       
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.Label AnswerLabel;
+        
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.Label QuestionLabel;
+        
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.Button PlayButton;
+        
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.TextBox AnswerTextBox;
+        
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.RadioButton DivideRadio;
+        
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.RadioButton MultiplyRadio;
+       
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.RadioButton SubtractRadio;
+       
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.RadioButton AddRadio;
+        
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.Label Label1;
+        
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         internal System.Windows.Forms.Label WelcomeLabel;
+
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.Windows.Forms.MenuStrip menuStrip1;
+
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
+
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
+
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
         private System.Windows.Forms.Label ScoreLabel;
     }
 }
