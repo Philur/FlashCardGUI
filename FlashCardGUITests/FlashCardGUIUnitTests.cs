@@ -501,8 +501,8 @@ namespace FlashCardGUIUnittests
 
             Assert.AreEqual(TestOjbect.BuildEquation(), "50*5");
         }
-        [TestMethod]
 
+        [TestMethod]
         public void BuildEquationDivision()
         {
             FlashCardsController TestOjbect = new FlashCardsController("d");
@@ -511,6 +511,30 @@ namespace FlashCardGUIUnittests
             TestOjbect.Number2 = 5;
 
             Assert.AreEqual(TestOjbect.BuildEquation(), "50/5");
+        }
+
+        //HACK this is a quite ugly test
+        [TestMethod]
+        public void TestNumberGenerator()
+        {
+            FlashCardsController TestOjbect = new FlashCardsController("a");
+
+            TestOjbect.Number1 = 0;
+            TestOjbect.Number2 = 0;
+
+            Assert.AreEqual(TestOjbect.Number1, 0);
+            Assert.AreEqual(TestOjbect.Number2, 0);
+
+            NumberGenerator testNum = new NumberGenerator();
+
+            testNum.GenerateNumbers(TestOjbect);
+
+            Assert.AreNotEqual(TestOjbect.Number1, 0);
+            Assert.AreNotEqual(TestOjbect.Number2, 0);
+            Assert.IsTrue(TestOjbect.Number1 < 100);
+            Assert.IsTrue(TestOjbect.Number2 < 100);
+            Assert.IsTrue(TestOjbect.Number1 > 0);
+            Assert.IsTrue(TestOjbect.Number2 > 0);
         }
     }
 }
