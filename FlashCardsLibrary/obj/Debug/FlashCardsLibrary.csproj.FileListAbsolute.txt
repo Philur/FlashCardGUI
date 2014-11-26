@@ -17,7 +17,3 @@ C:\temp\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.dll
 C:\temp\Ex 4.3\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.pdb
 C:\temp\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.dll
 C:\temp\Ex 4.3\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.pdb
-C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.dll
-C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\bin\Debug\FlashCardsLibrary.pdb
-C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.dll
-C:\GitHub_Archive\FlashCardGUI\FlashCardsLibrary\obj\Debug\FlashCardsLibrary.pdb

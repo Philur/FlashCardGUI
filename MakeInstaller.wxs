@@ -16,14 +16,14 @@
           <Directory Id='INSTALLDIR' Name='Flash Cards GUI 1.0'>
 
             <Component Id='MainExecutable' Guid='33e6d394-fefd-4622-a886-c71b6b6021b1'>
-              <File Id='FlashCardsEXE' Name='FlashCards.exe' DiskId='1' Source='FlashCards\bin\Release\FlashCards.exe' KeyPath='yes'>
+              <File Id='FlashCardsEXE' Name='FlashCards.exe' DiskId='1' Source='FlashCards.exe' KeyPath='yes'>
                 <Shortcut Id="startmenuFlashCards10" Directory="ProgramMenuDir" Name="FlashCards GUI 1.0" WorkingDirectory='INSTALLDIR' Icon="FlashCards10.exe" IconIndex="0" Advertise="yes" />
                 <Shortcut Id="desktopFlashCards10" Directory="DesktopFolder" Name="FlashCards GUI 1.0" WorkingDirectory='INSTALLDIR' Icon="FlashCards10.exe" IconIndex="0" Advertise="yes" />
               </File>
             </Component>
 
             <Component Id='FlashCardsLibrary' Guid='dba98060-639d-4771-b3a4-21a175e097b7'>
-              <File Id='FlashCardsLibraryDLL' Name='FlashCardsLibrary.dll' DiskId='1' Source='FlashCards\bin\Release\FlashCardsLibrary.dll' KeyPath='yes' />
+              <File Id='FlashCardsLibraryDLL' Name='FlashCardsLibrary.dll' DiskId='1' Source='FlashCardsLibrary.dll' KeyPath='yes' />
             </Component>
 
           </Directory>
