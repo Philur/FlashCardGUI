@@ -74,8 +74,14 @@ namespace FlashCards
             */
 
             //HACK BREAK CODE ON PURPOSE FOR DEMO!!
+            
+            //HACK BREAK CODE ON PURPOSE FOR DEMO!!
 
-            UGHE
+            //HACK BREAK CODE ON PURPOSE FOR DEMO!!
+
+            //HACK BREAK CODE ON PURPOSE FOR DEMO!!
+
+            //UGHE
             System.Windows.Forms.Application.Run(new FlashCardsForm());
 
             //TODO A nicer form would be good
