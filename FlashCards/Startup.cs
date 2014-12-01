@@ -75,7 +75,7 @@ namespace FlashCards
 
             //HACK BREAK CODE ON PURPOSE FOR DEMO!!
 
-            //UGHE
+            UGHE
             System.Windows.Forms.Application.Run(new FlashCardsForm());
 
             //TODO A nicer form would be good
