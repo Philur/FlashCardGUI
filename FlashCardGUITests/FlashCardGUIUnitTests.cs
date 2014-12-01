@@ -25,11 +25,11 @@ namespace FlashCardGUIUnittests
             TestOjbect.User = "kalle";
 
             //TODO this TC is to break the TestOjbect chain
-            //Assert.AreEqual(TestOjbect.User, "kallde");
+            Assert.AreEqual(TestOjbect.User, "kallde");
             //REFACTOR this TC so that it works better
-            Assert.AreNotEqual(TestOjbect.User, "kallde");
+            //Assert.AreNotEqual(TestOjbect.User, "kallde");
         }
-
+/*
         [TestMethod]
         public void SetPlayerNameLongname()
         {
@@ -136,7 +136,7 @@ namespace FlashCardGUIUnittests
 
             Assert.AreEqual(TestOjbect.WorkOn, "M");
         }
-
+*/
         [TestMethod]
         public void WorkOnLetterD()
         {
