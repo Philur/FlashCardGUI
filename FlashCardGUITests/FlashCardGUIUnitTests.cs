@@ -29,7 +29,7 @@ namespace FlashCardGUIUnittests
             //REFACTOR this TC so that it works better
             //Assert.AreNotEqual(TestOjbect.User, "kallde");
         }
-/*
+
         [TestMethod]
         public void SetPlayerNameLongname()
         {
@@ -148,7 +148,7 @@ namespace FlashCardGUIUnittests
 
             Assert.AreEqual(TestOjbect.WorkOn, "D");
         }
-*/
+
         //TODO Fix UT for the exception. This still does not work because I (Erik) really do not understand it
         /*[TestMethod]
         public void WorkOnLetter_other()
@@ -177,7 +177,7 @@ namespace FlashCardGUIUnittests
             Assert.IsTrue(TestOjbect.Number1 > 0);
 
         }
-/*
+
         [TestMethod]
         public void SetNumber2Multiplication()
         {
@@ -512,7 +512,7 @@ namespace FlashCardGUIUnittests
 
             Assert.AreEqual(TestOjbect.BuildEquation(), "50/5");
         }
-*/
+
         //HACK this is a quite ugly test
         [TestMethod]
         public void TestNumberGenerator()
