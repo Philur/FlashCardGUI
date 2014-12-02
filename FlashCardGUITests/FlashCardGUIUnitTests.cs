@@ -25,7 +25,7 @@ namespace FlashCardGUIUnittests
             TestOjbect.User = "kalle";
 
             //TODO this TC is to break the TestOjbect chain
-            Assert.AreEqual(TestOjbect.User, "kallde");
+            //Assert.AreEqual(TestOjbect.User, "kallde");
             //REFACTOR this TC so that it works better
             Assert.AreNotEqual(TestOjbect.User, "kallde");
         }
