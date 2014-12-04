@@ -536,5 +536,49 @@ namespace FlashCardGUIUnittests
             Assert.IsTrue(TestOjbect.Number1 > 0);
             Assert.IsTrue(TestOjbect.Number2 > 0);
         }
+
+        //TODO this is a quite ugly test
+        [TestMethod]
+        public void TestGenerateNumbersSwitchA()
+        {
+            FlashCardsController TestOjbect = new FlashCardsController("m");
+
+            TestOjbect.Number1 = 0;
+            TestOjbect.Number2 = 0;
+            TestOjbect.WorkOn = "A";
+
+            Assert.AreEqual(TestOjbect.Number1, 0);
+            Assert.AreEqual(TestOjbect.Number2, 0);
+            Assert.AreEqual(TestOjbect.WorkOn, "A");
+
+            NumberGenerator testNum = new NumberGenerator();
+
+            testNum.GenerateNumbers(TestOjbect);
+
+            Assert.IsTrue(TestOjbect.Number1 > 0);
+            Assert.IsTrue(TestOjbect.Number2 > 0);
+        }
+
+        //TODO this is a quite ugly test
+        [TestMethod]
+        public void TestGenerateNumbersSwitchS()
+        {
+            FlashCardsController TestOjbect = new FlashCardsController("m");
+
+            TestOjbect.Number1 = 0;
+            TestOjbect.Number2 = 0;
+            TestOjbect.WorkOn = "S";
+
+            Assert.AreEqual(TestOjbect.Number1, 0);
+            Assert.AreEqual(TestOjbect.Number2, 0);
+            Assert.AreEqual(TestOjbect.WorkOn, "S");
+
+            NumberGenerator testNum = new NumberGenerator();
+
+            testNum.GenerateNumbers(TestOjbect);
+
+            Assert.IsTrue(TestOjbect.Number1 > 0);
+            Assert.IsTrue(TestOjbect.Number2 > 0);
+        }
     }
 }
