@@ -36,18 +36,19 @@ namespace FlashCards
             // 
             // UserTextBox
             // 
-            this.UserTextBox.Location = new System.Drawing.Point(25, 50);
-            this.UserTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.UserTextBox.Location = new System.Drawing.Point(19, 41);
+            this.UserTextBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.UserTextBox.Name = "UserTextBox";
-            this.UserTextBox.Size = new System.Drawing.Size(209, 22);
+            this.UserTextBox.Size = new System.Drawing.Size(158, 20);
             this.UserTextBox.TabIndex = 0;
             // 
             // Label1
             // 
             this.Label1.AutoSize = true;
-            this.Label1.Location = new System.Drawing.Point(21, 20);
+            this.Label1.Location = new System.Drawing.Point(16, 16);
+            this.Label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Label1.Name = "Label1";
-            this.Label1.Size = new System.Drawing.Size(97, 17);
+            this.Label1.Size = new System.Drawing.Size(74, 13);
             this.Label1.TabIndex = 4;
             this.Label1.Text = "Who are you?";
             // 
@@ -55,10 +56,10 @@ namespace FlashCards
             // 
             this.OKButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.OKButton.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.OKButton.Location = new System.Drawing.Point(307, 107);
-            this.OKButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.OKButton.Location = new System.Drawing.Point(195, 40);
+            this.OKButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.OKButton.Name = "OKButton";
-            this.OKButton.Size = new System.Drawing.Size(75, 26);
+            this.OKButton.Size = new System.Drawing.Size(56, 21);
             this.OKButton.TabIndex = 3;
             this.OKButton.Text = "OK";
             this.OKButton.UseVisualStyleBackColor = true;
@@ -66,15 +67,15 @@ namespace FlashCards
             // UserDialogForm
             // 
             this.AcceptButton = this.OKButton;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(403, 153);
+            this.ClientSize = new System.Drawing.Size(302, 124);
             this.ControlBox = false;
             this.Controls.Add(this.UserTextBox);
             this.Controls.Add(this.Label1);
             this.Controls.Add(this.OKButton);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "UserDialogForm";
