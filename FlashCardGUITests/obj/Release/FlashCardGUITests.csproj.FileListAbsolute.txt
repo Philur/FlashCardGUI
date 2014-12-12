@@ -1,0 +1,9 @@
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\bin\Release\FlashCardGUITests.dll
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\bin\Release\FlashCardGUITests.pdb
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\bin\Release\FlashCards.exe
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\bin\Release\FlashCardsLibrary.dll
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\bin\Release\FlashCardsLibrary.pdb
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\bin\Release\FlashCards.pdb
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\obj\Release\FlashCardGUITests.csprojResolveAssemblyReference.cache
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\obj\Release\FlashCardGUITests.dll
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardGUITests\obj\Release\FlashCardGUITests.pdb

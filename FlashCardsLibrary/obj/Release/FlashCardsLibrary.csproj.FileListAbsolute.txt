@@ -1,0 +1,5 @@
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardsLibrary\bin\Release\FlashCardsLibrary.dll
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardsLibrary\bin\Release\FlashCardsLibrary.pdb
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardsLibrary\obj\Release\FlashCardsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardsLibrary\obj\Release\FlashCardsLibrary.dll
+C:\Users\u017121\Documents\GitHub\FlashCardGUI\FlashCardsLibrary\obj\Release\FlashCardsLibrary.pdb
