@@ -2,10 +2,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FlashCardsLibrary;
 
-namespace FlashCardGUIUnittests
+namespace FlashCardGuiUnittests
 {
     [TestClass]
-    public class FlashCardGUIUnittests
+    public class FlashCardGuiUnitTests
     {
         [TestMethod]
         public void SetPlayerName()

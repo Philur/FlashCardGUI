@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FlashCards;
 
-namespace FlashCardGUITests
+namespace FlashCardGuiTests
 {
     //REFACTOR This is very incomplete!
     [TestClass]
