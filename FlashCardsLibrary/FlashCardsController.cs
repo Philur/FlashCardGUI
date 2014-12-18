@@ -37,7 +37,6 @@ namespace FlashCardsLibrary
                 {
                     ScoreChanged(this, EventArgs.Empty);
                 }
-                
             }
         }
 
@@ -58,7 +57,6 @@ namespace FlashCardsLibrary
                     break;
             }
             generator.GenerateNumbers(this);
-                    
         }
 
         public string BuildEquation()

@@ -4,7 +4,7 @@ using FlashCards;
 
 namespace FlashCardGuiTests
 {
-    //REFACTOR This is very incomplete!
+    // REFACTOR This is very incomplete!
     [TestClass]
     public class FlashCardGUITests
     {
