@@ -24,9 +24,9 @@ namespace FlashCardGuiUnittests
 
             testOjbect.User = "kalle";
 
-            // TODO this TC is to break the testOjbect chain
-            // Assert.AreEqual(testOjbect.User, "kallde");
-            // REFACTOR this TC so that it works better
+            /// TODO this TC is to break the testOjbect chain
+            /// Assert.AreEqual(testOjbect.User, "kallde");
+            /// REFACTOR this TC so that it works better
             Assert.AreNotEqual(testOjbect.User, "kallde");
         }
 
@@ -149,8 +149,8 @@ namespace FlashCardGuiUnittests
             Assert.AreEqual(testOjbect.WorkOn, "D");
         }
 
-        // TODO Fix UT for the exception. This still does not work because I (Erik) really do not understand it
-        /*[TestMethod]
+        /// TODO Fix UT for the exception. This still does not work because I (Erik) really do not understand it
+        /*![TestMethod]
         public void WorkOnLetter_other()
         {
             FlashCardsController testOjbect = new FlashCardsController("x");
@@ -162,7 +162,7 @@ namespace FlashCardGuiUnittests
             UnittestOjbectAssertException.Equals(System.ArgumentException("Must enter Add, Subtract, Multiply or Divide"));
         }
          */
-
+*/
         // REFACTOR Understand how to do this!
         [TestMethod]
         public void SetNumber1Multiplication()
