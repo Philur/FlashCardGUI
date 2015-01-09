@@ -162,7 +162,7 @@ namespace FlashCardGuiUnittests
             UnittestOjbectAssertException.Equals(System.ArgumentException("Must enter Add, Subtract, Multiply or Divide"));
         }
          */
-*/
+
         // REFACTOR Understand how to do this!
         [TestMethod]
         public void SetNumber1Multiplication()
