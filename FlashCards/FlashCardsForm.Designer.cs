@@ -2,15 +2,15 @@ namespace FlashCards
 {
     partial class FlashCardsForm
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        //!  <summary>
+        //!  Clean up any resources being used.
+        //!  </summary>
+        //!  <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,10 +22,10 @@ namespace FlashCards
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
+        //!  <summary>
+        //!  Required method for Designer support - do not modify
+        //!  the contents of this method with the code editor.
+        //!  </summary>
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
@@ -223,74 +223,74 @@ namespace FlashCards
 
         #endregion
        
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.Label AnswerLabel;
         
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.Label QuestionLabel;
         
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.Button PlayButton;
         
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.TextBox AnswerTextBox;
         
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.RadioButton DivideRadio;
         
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.RadioButton MultiplyRadio;
        
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.RadioButton SubtractRadio;
        
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.RadioButton AddRadio;
         
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.Label Label1;
         
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.Label WelcomeLabel;
 
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         private System.Windows.Forms.MenuStrip menuStrip1;
 
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
 
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
 
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         private System.Windows.Forms.Label ScoreLabel;
     }
 }

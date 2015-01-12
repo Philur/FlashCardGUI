@@ -2,15 +2,15 @@ namespace FlashCards
 {
     partial class UserDialogForm
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        //!  <summary>
+        //!  Clean up any resources being used.
+        //!  </summary>
+        //!  <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (this.components != null))
@@ -23,10 +23,10 @@ namespace FlashCards
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
+        //!  <summary>
+        //!  Required method for Designer support - do not modify
+        //!  the contents of this method with the code editor.
+        //!  </summary>
         private void InitializeComponent()
         {
             this.UserTextBox = new System.Windows.Forms.TextBox();
@@ -88,19 +88,19 @@ namespace FlashCards
 
         #endregion
 
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         public System.Windows.Forms.TextBox UserTextBox;
 
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.Label Label1;
 
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+        //!  <summary>
+        //!  Required designer variable.
+        //!  </summary>
         internal System.Windows.Forms.Button OKButton;
     }
 }
