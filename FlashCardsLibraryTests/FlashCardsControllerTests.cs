@@ -17,7 +17,7 @@ namespace FlashCardsLibrary.Tests
 
             test.WorkOn = "asb";
 
-            Assert.AreEqual(test.WorkOn, "Abs");
+            Assert.AreEqual(test.WorkOn, "A");
         }
     }
 }
