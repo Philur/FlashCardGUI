@@ -27,7 +27,7 @@ namespace FlashCards
 
             this.WelcomeLabel.Text = "Hello " + this.game.User;
 //
-BREAKINGG CODEEEE !!!! 
+//TODO BREAKINGG CODEEEE !!!! 
             QuestionLabel.Text = string.Empty; // ""
 
            game.ScoreChanged += new EventHandler(game_ScoreChanged);
